@@ -29,7 +29,7 @@ social = [
 projects = [
   "<br>",
   "⚠ PROJECT SECTION IS CURRENTLY UNDER DEVELOPMENT ⚠",
-  "All projects are visable on my <a href='https://github.com/mistercxmpy/' target='_blank'>GitHub",
+  "All projects are visable on my <a href='https://github.com/yaBOUALI' target='_blank'>GitHub",
   "<br>",
   "Type the name of the language to views its projects:",
   "<br>",
