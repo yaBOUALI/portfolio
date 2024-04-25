@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Rock Paper and Scissors",
+    "desc": "Simple Rock Paper Scissors game I use HTML CSS and JavaScript.",
+    "image": "rock",
+    "category": "front",
+    "links": {
+      "view": "https://yabouali.github.io/simple-websit/10-rock%20.html",
+      "code": "https://github.com/yaBOUALI/simple-websit"
+    }
+  },
+  {
+    "name": "Lark Hooms",
+    "desc": "Simple interface withe HTML and CSS.",
+    "image": "hotel",
+    "category": "front"
+  },
+  {
+    "name": "Order Summary",
+    "desc": "Simple interface withe HTML and CSS.",
+    "image": "order",
+    "category": "front"
+  },
+  {
+    "name": "Email Sender",
+    "desc": "Simple appelication withe java.",
+    "image": "email",
+    "category": "back",
+    "links": {
+      "view": "https://github.com/yaBOUALI/email_colab",
+      "code": "https://github.com/yaBOUALI/email_colab"
+    }
+  },
+  {
+    "name": "Login",
+    "desc": "Simple interface withe HTML and CSS.",
+    "image": "login2",
+    "category": "front"
+  },
+  {
+    "name": "Auto Maroc",
+    "desc": "Design WebSite withe figma.",
+    "image": "auto",
+    "category": "front",
+    "links": {
+      "view": "/project N°1.pdf",
+      "code": "/project N°1.pdf"
+    }
+  }
+]
